@@ -1,7 +1,7 @@
 # Data_Structures_Project
 
-# projects desciption
-## five way partition
+## projects desciption
+### five way partition
 in this project we must complete body of FiveWayPartition method in FiveWayPartition.h file and a result that by this function should be produced is :
 elements in array that enterd as a input to this function should be sorted in this way :
 1. all elements that are less than pivot1 should be in range(p,q-1) index
